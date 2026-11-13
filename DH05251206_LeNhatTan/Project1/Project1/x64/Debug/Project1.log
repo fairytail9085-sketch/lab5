@@ -1,0 +1,5 @@
+﻿  chuongtrinh.cpp
+chuongtrinh.obj : error LNK2019: unresolved external symbol "bool __cdecl luuMaTran(struct MaTran,char const *)" (?luuMaTran@@YA_NUMaTran@@PEBD@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "bool __cdecl luuMaTran(struct MaTran &,char const *)" (?luuMaTran@@YA_NAEAUMaTran@@PEBD@Z)
+E:\DH05251206_LeNhatTan\Project1\x64\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
